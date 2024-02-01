@@ -1,0 +1,166 @@
+.preview-container {
+    width: 50%;    
+  }
+  
+  .template-A {
+    color: black;
+  }
+  
+  .template-B {
+    color: black;
+  }
+
+
+  
+
+  .header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 5rem;
+    border: 1px solid gray;
+  }
+
+  .profile{
+    height: 90%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 6px;
+    background-color: burlywood;
+
+  }
+
+.cvName-A{
+
+  width: auto;
+  font-size: 25px;
+  font-weight: 900;
+}
+
+
+
+.personalDetails{
+ 
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 10px;
+  font-weight: 200;
+  
+}
+
+.detail{
+  margin-right: 20px;
+}
+
+.summary{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+
+.textSummary{
+  width: 30%;
+  font-size: 12px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.summary p{
+  font-size: 12px;
+  width: 70%;
+
+}
+
+.education{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+
+}
+
+.college{
+  width: 30%;
+  font-size: 12px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+.clgDetails{
+  font-size: 12px;
+  width: 70%;
+}
+
+.clgDetails p{
+  margin-bottom: 5px;
+}
+
+.degree, .clgName{
+  font-weight: 600;
+}
+
+
+.skillWrapper{
+  display: flex;
+
+  align-items: center;
+  padding: 10px;
+  
+}
+
+.skills{
+  width: 30%;
+  font-size: 12px;
+  font-weight: 700;
+  margin-right: 10px;
+  
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.skillContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 12px;
+  width: 70%;
+}
+
+.experienceText{
+  width: 30%;
+  font-size: 12px;
+  font-weight: 700;
+  margin-right: 10px;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.experienceContainer{
+  display: flex;
+
+  align-items: center;
+  padding: 10px;
+}
+
+
+.experienceDetails{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  font-size: 12px;
+  width: 70%;
+
+}
+
+.bold{
+  font-weight: 700;
+  margin-bottom: 3px;
+  
+}
+
